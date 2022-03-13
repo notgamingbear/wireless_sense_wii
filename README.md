@@ -13,6 +13,7 @@ Wireless Sense is a project I'm creating where I try to create a wireless Wii se
 - 3.7v Lipo
 - LiPo Charger
 - 100ohm Resistor
+- Slide Switch (SPDT)
 - Normal LED (any color, optional)
 - screws (possibly, no specification yet)
 
