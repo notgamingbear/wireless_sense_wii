@@ -1,2 +1,26 @@
-# wireless_sense_wii
-This is currently a work in progress, but these are the PCB files for the Wireless Sense Wii project.
+**THIS PROJECT IS _NOT_ DONE AND NEEDS TO BE TESTED, DO NOT QUESTION ANYTHING YET**
+
+# Wireless Sense Wii
+Wireless Sense is a project I'm creating where I try to create a wireless Wii sensor bar to possibly prevent random knocking down or any problems with wires. This repository contains the PCBs and 3D printer files.
+
+## You will need:
+### Tools:
+- Soldering Iron
+- 3D Printer (Optional)
+### Items:
+- 8x LED
+- 3.7v Lipo
+- LiPo Charger
+- 100ohm Resistor
+- screws (possibly, no specification yet)
+
+## What to Do
+Once it's out, you can follow a video tutorial (coming in about a month)
+
+If you're this early, here are the instructions.
+
+1. Print out a PCB, get your items ready.
+2. Once you have the PCB, solder the items on accordingly.
+3. If you have a 3D printer, you can continue and print the case.
+4. Assemble the case with the board and external charger fitted.
+5. Turn the sensor on and turn on your Wii, there should be no other setup neccessary.
