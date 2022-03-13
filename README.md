@@ -9,7 +9,7 @@ Wireless Sense is a project I'm creating where I try to create a wireless Wii se
 - Soldering Iron
 - 3D Printer (Optional)
 ### Items:
-- 8x LED
+- 8x IR LED
 - 3.7v Lipo
 - LiPo Charger
 - 100ohm Resistor
