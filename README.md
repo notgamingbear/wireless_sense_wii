@@ -7,6 +7,7 @@ Wireless Sense is a project I'm creating where I try to create a wireless Wii se
 ## You will need:
 ### Tools:
 - Soldering Iron
+  - Solder (things like that)
 - 3D Printer (Optional)
 ### Items:
 - 8x IR LED
