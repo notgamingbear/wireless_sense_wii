@@ -1,5 +1,5 @@
 **THIS PROJECT IS _NOT_ DONE AND NEEDS TO BE TESTED, DO NOT QUESTION ANYTHING YET**
-_updated 3/12/2022_
+_updated 3/14/2022_
 
 # Wireless Sense Wii
 Wireless Sense is a project I'm creating where I try to create a wireless Wii sensor bar to possibly prevent random knocking down or any problems with wires. This repository contains the PCBs and 3D printer files.
